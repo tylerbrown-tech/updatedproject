@@ -1,15 +1,15 @@
 # updatedproject
 
-to run the program:
+To run the program:
 
-Open your terminal or command prompt.
+1. Open your terminal or command prompt.
 
-Navigate to the folder where  the .java file is saved.
+2. Navigate to the folder where the .java file is saved.
 
-type into the terminal:
+3. Type into the terminal:
 
 " javac DigitalWasteManager.java "
 
-and to run the program type into the terminal:
+4.  To run the program, type into the terminal:
 
 " java DigitalWasteManager "
