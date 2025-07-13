@@ -6,10 +6,10 @@ Open your terminal or command prompt.
 
 Navigate to the folder where  the .java file is saved.
 
-Compile using:
+type into the terminal:
 
 " javac DigitalWasteManager.java "
 
-and to run the program use:
+and to run the program type into the terminal:
 
 " java DigitalWasteManager "
